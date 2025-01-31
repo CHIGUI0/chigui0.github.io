@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a master student at the University of Illinois Urbana-Champaign, majoring in computer science. My research interest includes large language models and reinforcement learning.
+Hi, I am a master student at the University of Illinois Urbana-Champaign, majoring in computer science. My research interest includes large language models and reinforcement learning. I am currently a graduate research assistant at UIUC, under the guidance of Professor [Vikram Adve](https://vikram.cs.illinois.edu/).
 
 # 📝 Publications 
 - [“HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale”](https://arxiv.org/abs/2406.19280), Junying Chen, **Chi Gui**, Anningzhe Gao, Shunian Chen, Guiming Hardy Chen, Xidong Wang, Ruifei Zhang, Zhenyang Cai, Ke Ji, Guangjun Yu, Xiang Wan, Benyou Wang, Proceeding of EMNLP, 2024
