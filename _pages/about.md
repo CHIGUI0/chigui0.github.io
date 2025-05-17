@@ -20,7 +20,7 @@ redirect_from:
 Hi, I am a master student at the University of Illinois Urbana-Champaign, majoring in computer science. My research interest includes large language models and reinforcement learning. I am currently a graduate research assistant at UIUC, under the guidance of Professor [Vikram Adve](https://vikram.cs.illinois.edu/).
 
 # 📝 Publications 
-- [“COD, Towards an Interpretable and Controllable Medical Agent using Chain of Diagnosis”](https://arxiv.org/abs/2407.13301), Junying Chen*, **Chi Gui***, Anningzhe Gao, Ke Ji, Xidong Wang, Xiang Wan, Benyou Wang, ACL Findings, 2025
+- [“COD, Towards an Interpretable and Controllable Medical Agent using Chain of Diagnosis”](https://arxiv.org/abs/2407.13301), Junying Chen *, **Chi Gui** *, Anningzhe Gao, Ke Ji, Xidong Wang, Xiang Wan, Benyou Wang, ACL Findings, 2025
   
 - [“HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale”](https://arxiv.org/abs/2406.19280), Junying Chen, **Chi Gui**, Anningzhe Gao, Shunian Chen, Guiming Hardy Chen, Xidong Wang, Ruifei Zhang, Zhenyang Cai, Ke Ji, Guangjun Yu, Xiang Wan, Benyou Wang, Proceeding of EMNLP, 2024
 
