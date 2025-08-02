@@ -29,7 +29,7 @@ Hi, I am a master student at the University of Illinois Urbana-Champaign, majori
 - “Joint Optimization of Speaker Extraction and Diarization”, Junyi Ao, **Chi Gui**, Meng Ge, Jingru Lin, Shuai Wang, Haizhou Li, Proceeding of National Conference on Man-Machine Speech Communication, 2023
 
 # 📖 Educations
-- *2024.08 - now*, Master of Computer Science, University of Illinois Urbana-Champaign. 
+- *2024.08 - now*, Master Science of Computer Science, University of Illinois Urbana-Champaign. 
 - *2020.09 - 2024.05*, Bachelor of Computer Science and Engineering, the Chinese University of Hong Kong (Shenzhen). 
 
 # 💻 Internships
