@@ -24,7 +24,7 @@ author:
   name             : "Chi Gui (桂驰)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "University of Illinois Urbana-Champaign"
-  location         : "Chicago, United States"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SzDzy10AAAAJ"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
