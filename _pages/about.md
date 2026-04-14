@@ -23,8 +23,6 @@ I am also fortunate to work with Prof. [Manling Li](https://limanling.github.io/
 as a Research Intern at [Machine Learning and Language Lab](https://www.mll.lab.northwestern.edu/). Previously, I completed my B.S. at the Chinese University of Hong Kong, Shenzhen,
 where I had the privilege of being mentored by Prof. [Benyou Wang](https://wabyking.github.io/old.html).
 
-**Currently, I am looking for a PhD position (2026 Fall). Feel free to reach out!**
-
 # 🔬 Research
 
 My research aims to build **grounded and generalizable agents** that learn from
@@ -40,6 +38,10 @@ include:
 
 
 # 📝 Publications 
+\* indicates equal contribution.
+
+- [“RAGEN-2: Reasoning Collapse in Agentic RL”](https://arxiv.org/abs/2604.06268), Zihan Wang *, **Chi Gui** *, Xing Jin *, Qineng Wang *, Licheng Liu *, Kangrui Wang, Shiqi Chen, Linjie Li, Zhengyuan Yang, Pingyue Zhang, Yiping Lu, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li, arXiv, 2026
+
 - [“MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations”](https://arxiv.org/abs/2506.20100), Vardhan Dongre *, **Chi Gui** *, Shubham Garg, Hooshang Nayyeri, Gokhan Tur, Dilek Hakkani-Tür, Vikram S. Adve, NeurIPS Datasets & Benchmarks Track, 2025
 
 - [“COD, Towards an Interpretable and Controllable Medical Agent using Chain of Diagnosis”](https://arxiv.org/abs/2407.13301), Junying Chen *, **Chi Gui** *, Anningzhe Gao, Ke Ji, Xidong Wang, Xiang Wan, Benyou Wang, ACL Findings, 2025
