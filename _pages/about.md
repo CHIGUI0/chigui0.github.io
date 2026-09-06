@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Chi Gui. I am a Master's student in Computer Science at the University of Illinois
-Urbana-Champaign, advised by Prof. [Vikram Adve](https://vikram.cs.illinois.edu/).
-I am also fortunate to work with Prof. [Manling Li](https://limanling.github.io/)
-as a Research Intern at [Machine Learning and Language Lab](https://www.mll.lab.northwestern.edu/). Previously, I completed my B.S. at the Chinese University of Hong Kong, Shenzhen,
-where I had the privilege of being mentored by Prof. [Benyou Wang](https://wabyking.github.io/old.html).
+Hi, I'm Chi Gui. I am an incoming Ph.D. student in Computer Science at Northwestern University, where I will work with Prof. [Manling Li](https://limanling.github.io/).
 
-# 🔬 Research
+My current research focuses on how AI-generated content affects people’s work and interaction with technology, particularly how unnecessary content and poor organization influence editing effort, work quality, and user experience.
+
+Previously, I completed my M.S. in Computer Science at the University of Illinois Urbana-Champaign, advised by Prof. [Vikram Adve](https://vikram.cs.illinois.edu/). Before that, I received my B.S. in Computer Science and Engineering from the Chinese University of Hong Kong, Shenzhen, where I was mentored by Prof. [Benyou Wang](https://wabyking.github.io/old.html).
+
+<!-- # 🔬 Research
 
 My research aims to build **grounded and generalizable agents** that learn from
 continuous interaction with the world. I focus on how reinforcement learning can
@@ -34,13 +34,13 @@ include:
   multi-turn and long-horizon reinforcement learning.
 - **Interactive Agents 🔍**: Enabling agents to actively seek information and decide
   when to ask, reason, or act under incomplete inputs.
-- **Multi-Agent Learning 🤝**: Studying RL for collaborative multi-agent settings.
+- **Multi-Agent Learning 🤝**: Studying RL for collaborative multi-agent settings. -->
 
 
 # 📝 Publications 
 \* indicates equal contribution.
 
-- [“RAGEN-2: Reasoning Collapse in Agentic RL”](https://arxiv.org/abs/2604.06268), Zihan Wang *, **Chi Gui** *, Xing Jin *, Qineng Wang *, Licheng Liu *, Kangrui Wang, Shiqi Chen, Linjie Li, Zhengyuan Yang, Pingyue Zhang, Yiping Lu, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li, ICML, 2026, <span style="color:red;">Oral</span>
+- [“RAGEN-2: Reasoning Collapse in Agentic RL”](https://arxiv.org/abs/2604.06268), Zihan Wang *, **Chi Gui** *, Xing Jin *, Qineng Wang *, Licheng Liu *, Kangrui Wang, Shiqi Chen, Linjie Li, Zhengyuan Yang, Pingyue Zhang, Yiping Lu, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li, arXiv, 2026
 
 - [“MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations”](https://arxiv.org/abs/2506.20100), Vardhan Dongre *, **Chi Gui** *, Shubham Garg, Hooshang Nayyeri, Gokhan Tur, Dilek Hakkani-Tür, Vikram S. Adve, NeurIPS Datasets & Benchmarks Track, 2025
 
@@ -50,9 +50,11 @@ include:
 
 - [“Joint Optimization of Speaker Extraction and Diarization”](https://drive.google.com/file/d/10RNzRyDHseDmn73n-YiQn1zLFi9ueX17/view), Junyi Ao, **Chi Gui**, Meng Ge, Jingru Lin, Shuai Wang, Haizhou Li, Proceeding of National Conference on Man-Machine Speech Communication, 2023
 
-# 📖 Educations
-- *2024.08 - now*, Master of Science in Computer Science, University of Illinois Urbana-Champaign. 
-- *2020.09 - 2024.05*, Bachelor of Computer Science and Engineering, the Chinese University of Hong Kong (Shenzhen). 
+# 📖 Education
+
+* **2026.09 - present**, Ph.D. in Computer Science, Northwestern University.
+* **2024.08 - 2026.05**, M.S. in Computer Science, University of Illinois Urbana-Champaign.
+* **2020.09 - 2024.05**, B.S. in Computer Science and Engineering, The Chinese University of Hong Kong, Shenzhen.
 
 # 💻 Internships
 - *2023.06 - 2023.09*, Hopesen, Shenzhen, China.
