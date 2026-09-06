@@ -40,7 +40,7 @@ include:
 # 📝 Publications 
 \* indicates equal contribution.
 
-- [“RAGEN-2: Reasoning Collapse in Agentic RL”](https://arxiv.org/abs/2604.06268), Zihan Wang *, **Chi Gui** *, Xing Jin *, Qineng Wang *, Licheng Liu *, Kangrui Wang, Shiqi Chen, Linjie Li, Zhengyuan Yang, Pingyue Zhang, Yiping Lu, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li, arXiv, 2026
+- [“RAGEN-2: Reasoning Collapse in Agentic RL”](https://arxiv.org/abs/2604.06268), Zihan Wang *, **Chi Gui** *, Xing Jin *, Qineng Wang *, Licheng Liu *, Kangrui Wang, Shiqi Chen, Linjie Li, Zhengyuan Yang, Pingyue Zhang, Yiping Lu, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li, ICML, 2026
 
 - [“MIRAGE: A Benchmark for Multimodal Information-Seeking and Reasoning in Agricultural Expert-Guided Conversations”](https://arxiv.org/abs/2506.20100), Vardhan Dongre *, **Chi Gui** *, Shubham Garg, Hooshang Nayyeri, Gokhan Tur, Dilek Hakkani-Tür, Vikram S. Adve, NeurIPS Datasets & Benchmarks Track, 2025
 
